@@ -18,8 +18,8 @@ sections:
   - landing-page
   - page
 - type: directory
-  path: _people
-  label: People
+  path: _providers
+  label: Providers
   create: all
   match: "*"
   templates:
