@@ -1,4 +1,17 @@
 ---
 label: providers
 hide_body: true
-fields: []
+fields:
+- name: provider_name
+  type: text
+  config:
+    required: false
+  label: Provider Name
+  description: The first/last name of the provider
+- name: provider-specialty-blocks
+  type: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  label: provider-specialty-blocks
