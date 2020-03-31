@@ -19,11 +19,11 @@ sections:
   - page
 - type: directory
   path: _providers
-  label: Providers
+  label: Octave Providers
   create: all
   match: "*"
   templates:
-  - person
+  - providers
 - type: directory
   path: _projects
   label: Projects
