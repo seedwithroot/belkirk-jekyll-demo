@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/03/31/ocatave-room"
 layout: landing-page
 heading: Belkirk College
 partners:
@@ -17,16 +17,15 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: | 
+textline: |
   Belkirk College of Engineering
-  
+
   Ora et Labora
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: Find a provider
+  href: "/"
 show_news: true
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
+show_staff: false
+when_do_you_want_to_come_in_: 
+
 ---
