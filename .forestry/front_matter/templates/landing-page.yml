@@ -79,4 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
+- Providers/kristen-scarlett-lmhc.md
 - index.md
