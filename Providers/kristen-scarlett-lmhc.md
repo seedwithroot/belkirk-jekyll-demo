@@ -5,8 +5,8 @@ layout: home
 title: Kristen Scarlett, LMHC
 banner_image: ''
 hero_button:
-  text: ''
-  href: ''
+  text: Book a Consultation
+  href: https://findoctave.com
 textline: "Education\n\nBA - Villanova University  \n  \nMA in Counseling, College
   of St. Elizabeth  \n  \nCertifications in CBT/ACT from the Beck Institute & Center
   for Mind Body Medicine in EMDR\n\n##### Special Interests\n\nOCD, intrusive thoughts/PureO,
