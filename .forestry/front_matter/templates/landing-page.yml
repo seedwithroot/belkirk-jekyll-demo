@@ -10,13 +10,9 @@ fields:
   config:
     required: true
 - type: text
-  label: Hero Heading
+  label: Service provider
   name: heading
   default: Belkirk College
-- type: text
-  name: sub_heading
-  label: Hero Sub heading
-  default: Engineering and Health Sciences
 - type: file
   name: banner_image
   label: Hero Image
@@ -78,6 +74,15 @@ fields:
   type: text
   hidden: true
   default: home
+- name: when_do_you_want_to_come_in_
+  type: datetime
+  label: When do you want to come in?
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - anxiety.md
 - index.md
