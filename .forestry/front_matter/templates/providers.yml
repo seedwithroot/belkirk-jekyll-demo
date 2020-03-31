@@ -8,6 +8,15 @@ fields:
     required: false
   label: Provider Name
   description: The first/last name of the provider
+- name: bio
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bio
 - name: provider-specialty-blocks
   type: blocks
   template_types:
