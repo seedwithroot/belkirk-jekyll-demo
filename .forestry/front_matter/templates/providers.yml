@@ -16,3 +16,5 @@ fields:
     min: 
     max: 
   label: provider-specialty-blocks
+pages:
+- _providers/justin-lane.md
