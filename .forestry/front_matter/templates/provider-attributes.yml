@@ -1,4 +1,18 @@
 ---
 label: provider-attributes
 hide_body: true
-fields: []
+fields:
+- name: provider-attribute-title
+  type: text
+  config:
+    required: false
+  label: provider-attribute-title
+- name: provider-attribute-description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: provider-attribute-description
