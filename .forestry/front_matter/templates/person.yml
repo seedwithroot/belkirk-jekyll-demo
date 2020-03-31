@@ -35,5 +35,3 @@ fields:
   type: text
   hidden: true
   default: person
-pages:
-- _providers/kristen-scarlett-lmhc.md
