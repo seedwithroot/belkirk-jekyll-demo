@@ -10,7 +10,8 @@ fields:
   description: The first/last name of the provider
 - name: provider-specialty-blocks
   type: blocks
-  template_types: []
+  template_types:
+  - provider-attributes
   config:
     min: 
     max: 
