@@ -12,7 +12,7 @@ sections:
   templates:
   - post
 - type: jekyll-pages
-  label: Pages
+  label: Octave Static Pages
   create: all
   templates:
   - landing-page
